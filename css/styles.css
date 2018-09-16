@@ -225,14 +225,14 @@ div {
   transform: rotateY(90deg);
 }
 
-/*.wall_bottom {
+.wall_bottom {
   top: calc(50% + 300px / 2);
   width: 9999px;
   height: 9999px;
   background: black;
 }
 
-.wall_bottom::before {
+/*.wall_bottom::before {
   content: '';
   position: absolute;
   width: 100%;

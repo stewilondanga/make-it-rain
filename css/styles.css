@@ -1743,14 +1743,14 @@ div {
   animation: drop 1025ms -1977ms linear infinite;
 }
 
-/*.rain_line:nth-child(93) {
+.rain_line:nth-child(93) {
   left: 73%;
   -webkit-transform: translateZ(-109px);
   transform: translateZ(-109px);
   opacity: 0.892;
 }
 
-.rain_line:nth-child(93) .drop {
+/*.rain_line:nth-child(93) .drop {
   width: 100%;
   height: 70px;
   background: linear-gradient(to bottom, rgba(200, 200, 200, 0) 0%, #c8c8c8 70%, rgba(200, 200, 200, 0) 100%);

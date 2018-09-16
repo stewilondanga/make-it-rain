@@ -244,14 +244,14 @@ div {
   transform: rotateX(-90deg);
 }
 
-/*.wall_left {
+.wall_left {
   left: calc(50% - 9999px - 200px / 2);
   width: 9999px;
   height: 9999px;
   background: black;
 }
 
-.wall_left::before {
+/*.wall_left::before {
   content: '';
   position: absolute;
   right: 0;

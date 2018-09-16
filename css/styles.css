@@ -176,7 +176,7 @@ div {
   height: 100%;
 }
 
-/*.wall_glass {
+.wall_glass {
   top: calc(50% - 300px / 2);
   left: calc(50% - 200px / 2);
   width: 200px;
@@ -186,7 +186,7 @@ div {
   transform: translateZ(-10px);
 }
 
-.wall_top {
+/*.wall_top {
   top: calc(50% - 9999px - 300px / 2);
   width: 9999px;
   height: 9999px;

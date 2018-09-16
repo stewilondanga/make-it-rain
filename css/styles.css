@@ -2305,7 +2305,7 @@ div {
   opacity: 0.792;
 }
 
-/*.rain_line:nth-child(130) .drop {
+.rain_line:nth-child(130) .drop {
   width: 100%;
   height: 33px;
   background: linear-gradient(to bottom, rgba(200, 200, 200, 0) 0%, #c8c8c8 70%, rgba(200, 200, 200, 0) 100%);
@@ -2313,7 +2313,7 @@ div {
   animation: drop 1129ms -526ms linear infinite;
 }
 
-.rain_line:nth-child(131) {
+/*.rain_line:nth-child(131) {
   left: 68%;
   -webkit-transform: translateZ(-266px);
   transform: translateZ(-266px);

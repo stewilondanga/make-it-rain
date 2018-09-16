@@ -272,7 +272,7 @@ div {
   background: black;
 }
 
-/*.wall_vertical::before {
+.wall_vertical::before {
   content: '';
   position: absolute;
   width: 20px;
@@ -284,7 +284,7 @@ div {
   transform: rotateY(90deg);
 }
 
-.wall_vertical::after {
+/*.wall_vertical::after {
   content: '';
   position: absolute;
   right: 0;

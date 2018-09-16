@@ -21,11 +21,11 @@ body {
   height: 2.5em;
 }
 
-/*.my_social a img {
+.my_social a img {
   height: 1.5em;
 }
 
-div {
+/*div {
   position: absolute;
   -webkit-transform-style: preserve-3d;
   transform-style: preserve-3d;

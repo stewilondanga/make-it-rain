@@ -77,11 +77,11 @@ div {
   transform: rotateY(-10deg) rotateX(0deg);
 }
 
-/*.interface:nth-child(5) {
+.interface:nth-child(5) {
   left: 40%;
 }
 
-.interface:nth-child(5):hover~.window {
+/*.interface:nth-child(5):hover~.window {
   -webkit-transform: rotateY(0deg) rotateX(0deg);
   transform: rotateY(0deg) rotateX(0deg);
 }

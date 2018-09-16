@@ -358,12 +358,12 @@ div {
   transform: translateZ(-60px) rotateZ(0deg);
 }
 
-/*.rain_line {
+.rain_line {
   width: 1px;
   height: 100%;
 }
 
-.rain_line:nth-child(1) {
+/*.rain_line:nth-child(1) {
   left: 73%;
   -webkit-transform: translateZ(-732px);
   transform: translateZ(-732px);

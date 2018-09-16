@@ -2628,7 +2628,7 @@ div {
   }
 }
 
-/*@keyframes drop {
+@keyframes drop {
   0% {
     -webkit-transform: translateY(0vh);
     transform: translateY(0vh);
@@ -2643,7 +2643,7 @@ div {
   }
 }
 
-@-webkit-keyframes rotate {
+/*@-webkit-keyframes rotate {
   0% {
     -webkit-transform: rotateY(50deg);
     transform: rotateY(50deg);

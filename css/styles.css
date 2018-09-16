@@ -171,12 +171,12 @@ div {
   bottom: 0;
 }
 
-/*.wall {
+.wall {
   width: 100%;
   height: 100%;
 }
 
-.wall_glass {
+/*.wall_glass {
   top: calc(50% - 300px / 2);
   left: calc(50% - 200px / 2);
   width: 200px;

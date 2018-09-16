@@ -351,14 +351,14 @@ div {
   background: black;
 }
 
-/*.rain {
+.rain {
   width: 100%;
   height: 100%;
   -webkit-transform: translateZ(-60px) rotateZ(0deg);
   transform: translateZ(-60px) rotateZ(0deg);
 }
 
-.rain_line {
+/*.rain_line {
   width: 1px;
   height: 100%;
 }

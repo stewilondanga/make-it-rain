@@ -186,14 +186,14 @@ div {
   transform: translateZ(-10px);
 }
 
-/*.wall_top {
+.wall_top {
   top: calc(50% - 9999px - 300px / 2);
   width: 9999px;
   height: 9999px;
   background: black;
 }
 
-.wall_top::before {
+/*.wall_top::before {
   content: '';
   position: absolute;
   bottom: 0;

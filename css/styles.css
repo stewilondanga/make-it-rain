@@ -284,7 +284,7 @@ div {
   transform: rotateY(90deg);
 }
 
-/*.wall_vertical::after {
+.wall_vertical::after {
   content: '';
   position: absolute;
   right: 0;
@@ -297,7 +297,7 @@ div {
   transform: rotateY(-90deg);
 }
 
-.wall_horizontal {
+/*.wall_horizontal {
   top: calc(50% - 20px / 2);
   left: calc(50% - 200px / 2);
   width: 200px;

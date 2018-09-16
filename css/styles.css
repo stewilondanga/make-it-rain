@@ -34,14 +34,14 @@ div {
   pointer-events: none;
 }
 
-/*.interface {
+.interface {
   top: 0;
   width: 10%;
   height: 100%;
   pointer-events: auto;
 }
 
-.interface:nth-child(1) {
+/*.interface:nth-child(1) {
   left: 0%;
 }
 

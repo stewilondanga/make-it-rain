@@ -2654,7 +2654,7 @@ div {
   }
 }
 
-/*@keyframes rotate {
+@keyframes rotate {
   0% {
     -webkit-transform: rotateY(50deg);
     transform: rotateY(50deg);
@@ -2665,7 +2665,7 @@ div {
   }
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }

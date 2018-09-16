@@ -150,7 +150,7 @@ div {
   backface-visibility: visible;
 }
 
-/*.light_ref {
+.light_ref {
   width: 90px;
   height: 140px;
   background: rgba(255, 255, 255, 0.5);
@@ -158,7 +158,7 @@ div {
   backface-visibility: visible;
 }
 
-.light_ref_2 {
+/*.light_ref_2 {
   right: 0;
 }
 

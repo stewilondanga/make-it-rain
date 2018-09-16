@@ -305,7 +305,7 @@ div {
   background: black;
 }
 
-/*.wall_horizontal::before {
+.wall_horizontal::before {
   content: '';
   position: absolute;
   width: 100%;
@@ -317,7 +317,7 @@ div {
   transform: rotateX(-90deg);
 }
 
-.wall_horizontal::after {
+/*.wall_horizontal::after {
   content: '';
   position: absolute;
   bottom: 0;

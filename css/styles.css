@@ -90,12 +90,12 @@ div {
   left: 50%;
 }
 
-/*.interface:nth-child(6):hover~.window {
+.interface:nth-child(6):hover~.window {
   -webkit-transform: rotateY(10deg) rotateX(0deg);
   transform: rotateY(10deg) rotateX(0deg);
 }
 
-.interface:nth-child(7) {
+/*.interface:nth-child(7) {
   left: 60%;
 }
 

@@ -1983,14 +1983,14 @@ div {
   animation: drop 1028ms -1260ms linear infinite;
 }
 
-/*.rain_line:nth-child(109) {
+.rain_line:nth-child(109) {
   left: 63%;
   -webkit-transform: translateZ(-500px);
   transform: translateZ(-500px);
   opacity: 0.501;
 }
 
-.rain_line:nth-child(109) .drop {
+/*.rain_line:nth-child(109) .drop {
   width: 100%;
   height: 56px;
   background: linear-gradient(to bottom, rgba(200, 200, 200, 0) 0%, #c8c8c8 70%, rgba(200, 200, 200, 0) 100%);

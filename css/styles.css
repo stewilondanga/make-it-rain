@@ -2613,7 +2613,7 @@ div {
   animation: drop 1198ms -1881ms linear infinite;
 }
 
-/*@-webkit-keyframes drop {
+@-webkit-keyframes drop {
   0% {
     -webkit-transform: translateY(0vh);
     transform: translateY(0vh);
@@ -2628,7 +2628,7 @@ div {
   }
 }
 
-@keyframes drop {
+/*@keyframes drop {
   0% {
     -webkit-transform: translateY(0vh);
     transform: translateY(0vh);

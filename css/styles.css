@@ -131,13 +131,13 @@ div {
   transform: rotateY(50deg) rotateX(0deg);
 }
 
-/*.window {
+.window {
   width: 100%;
   height: 100%;
   transition: 1000ms cubic-bezier(0.17, 0.935, 0.305, 1);
 }
 
-.light {
+/*.light {
   top: calc(50% - 300px / 2);
   left: calc(50% - 200px / 2);
   width: 200px;

@@ -232,7 +232,7 @@ div {
   background: black;
 }
 
-/*.wall_bottom::before {
+.wall_bottom::before {
   content: '';
   position: absolute;
   width: 100%;
@@ -244,7 +244,7 @@ div {
   transform: rotateX(-90deg);
 }
 
-.wall_left {
+/*.wall_left {
   left: calc(50% - 9999px - 200px / 2);
   width: 9999px;
   height: 9999px;

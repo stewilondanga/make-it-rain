@@ -41,11 +41,11 @@ div {
   pointer-events: auto;
 }
 
-/*.interface:nth-child(1) {
+.interface:nth-child(1) {
   left: 0%;
 }
 
-.interface:nth-child(1):hover~.window {
+/*.interface:nth-child(1):hover~.window {
   -webkit-transform: rotateY(-40deg) rotateX(0deg);
   transform: rotateY(-40deg) rotateX(0deg);
 }

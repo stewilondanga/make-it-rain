@@ -344,14 +344,14 @@ div {
   background: black;
 }
 
-/*.mask_left {
+.mask_left {
   left: calc(50% - 100% - 200px);
   width: 100%;
   height: 100%;
   background: black;
 }
 
-.rain {
+/*.rain {
   width: 100%;
   height: 100%;
   -webkit-transform: translateZ(-60px) rotateZ(0deg);
